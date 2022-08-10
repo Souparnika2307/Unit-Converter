@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_length.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_length1.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_length2.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_length3.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_speed.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_speed1.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_speed2.xml" value="0.1" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_speed3.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_temp1.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_temp2.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_temp3.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_temperature.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_weight.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_weight1.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_weight2.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/Souparnika/AndroidStudioProjects/MyAppConverter2/app/src/main/res/layout/activity_weight3.xml" value="0.13134057971014493" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
